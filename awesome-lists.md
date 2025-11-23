@@ -8,12 +8,12 @@ Includes job boards and utilities that help candidates find remote roles.
 https://github.com/DopplerHQ/awesome-interview-questions  
 Has a section with useful job-search and application tools.
 
-**Awesome AI Apps**
-https://github.com/Arindam200/awesome-ai-apps
+**Awesome AI Apps**  
+https://github.com/Arindam200/awesome-ai-apps  
 A comprehensive collection of practical examples, tutorials, and recipes for building powerful LLM-powered applications.
 
-**Awesome AI Tools**
-https://github.com/mahseema/awesome-ai-tools
+**Awesome AI Tools**  
+https://github.com/mahseema/awesome-ai-tools  
 A large, actively updated AI-tools index — a strong fit for Jobify as an AI-powered resume-tailoring platform.
 
 ## 🔗 Project Website
