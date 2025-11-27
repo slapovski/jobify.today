@@ -11,3 +11,11 @@ Automated resume tailoring based on job descriptions
 - Job–resume matching to highlight the best-fit opportunities
 If you're curious about the live version of the project, you can check it out here:
 👉 https://jobify.today
+
+## We have free ATS resume checker
+It’s available to everyone, without the need to sign up or provide your contact information.
+
+
+![Screenshot of Free ATA Resume checker](images/Screenshot1.png "Easy to use widget, just drag&drop your resume")
+
+![Screenshot of the results of evaluation](images/Screenshot2.png "Result of evaluation")
