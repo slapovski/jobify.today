@@ -15,6 +15,8 @@ If you're curious about the live version of the project, you can check it out he
 ## We have free ATS resume checker
 It’s available to everyone, without the need to sign up or provide your contact information.
 
+https://jobify.today/ats-resume-checker
+
 
 ![Screenshot of Free ATA Resume checker](Screenshot1.png "Easy to use widget, just drag&drop your resume")
 
