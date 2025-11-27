@@ -16,6 +16,6 @@ If you're curious about the live version of the project, you can check it out he
 It’s available to everyone, without the need to sign up or provide your contact information.
 
 
-![Screenshot of Free ATA Resume checker](images/Screenshot1.png "Easy to use widget, just drag&drop your resume")
+![Screenshot of Free ATA Resume checker](Screenshot1.png "Easy to use widget, just drag&drop your resume")
 
-![Screenshot of the results of evaluation](images/Screenshot2.png "Result of evaluation")
+![Screenshot of the results of evaluation](Screenshot2.png "Result of evaluation")
