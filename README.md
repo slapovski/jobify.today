@@ -12,8 +12,8 @@ Automated resume tailoring based on job descriptions
 If you're curious about the live version of the project, you can check it out here:
 👉 https://jobify.today
 
-## We have free ATS resume checker
-It’s available to everyone, without the need to sign up or provide your contact information.
+## We offer an ATS resume checker for free.
+It’s accessible to everyone, without the requirement of signing up or sharing your contact details.
 
 https://jobify.today/ats-resume-checker
 
